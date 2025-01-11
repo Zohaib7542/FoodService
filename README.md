@@ -1,6 +1,4 @@
-##  Lessons
-1. Introduciton to the course
-2. Install development tools
+
 3. Create Angular App
    1. Create project's folder
    2. Install @angular/cli
